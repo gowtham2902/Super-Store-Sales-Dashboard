@@ -1,4 +1,4 @@
-# Super-Store-Sales-Dashboard
+# Super-Store-Sales-Powerbi Dashboard 
 Created a interactive sales dashboard using powerbi
 # Objective
 To Contribute the success of business by utilizing data analysis techniques
