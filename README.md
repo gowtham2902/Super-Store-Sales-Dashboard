@@ -14,3 +14,9 @@ Standard Shipping contributed most to orders
 Majority of customers belong to the Consumer segment
 
 COD is the most widely used payment mode
+
+## 📄 Dashboard PDF
+
+![Dashboard Preview](./Images/dashboard_preview.png)
+
+👉 [Click here to view the full PDF](./Super%20Store%20Sales%20Dashboard.pdf)
