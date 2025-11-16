@@ -17,6 +17,4 @@ COD is the most widely used payment mode
 
 ## 📄 Dashboard PDF
 
-![Dashboard Preview](./Images/dashboard_preview.png)
-
-👉 [Click here to view the full PDF](./Super%20Store%20Sales%20Dashboard.pdf)
+👉 [Click here to view the full PDF](https://github.com/gowtham2902/Super-Store-Sales-Dashboard/blob/3dd5b3ff6d066f2c7d3029c5070b3ab4f6865f42/Super%20Store%20Sales%20Dashboard.pdf)
