@@ -2,6 +2,8 @@
 Created a interactive sales dashboard using powerbi
 # Objective
 To Contribute the success of business by utilizing data analysis techniques
+## DataSet
+👉 [Click here to view Dataset](https://github.com/gowtham2902/Super-Store-Sales-Dashboard/blob/d67d1b33a7f1d9be0c1be06ff0517428de7840b0/SuperStore_Sales_Dataset.csv)
 
 # Insights Summary
 
